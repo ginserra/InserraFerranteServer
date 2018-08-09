@@ -4,6 +4,7 @@ return [
     'host' => 'localhost',
     'name' => 'db_fg',
     'user' => 'root',
-    'pass' => ''
+    'pass' => '',
+    'secret_key'=>'giovanni30072016'
 ];
 ?>
